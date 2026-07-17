@@ -34,4 +34,4 @@ Investigates whether simpler or non-adversarial loss functions can replace the W
 
 ### Stack
 
-Python, PyTorch, C++, [add what's actually relevant: transformers, scikit-learn, etc.]
+Python, PyTorch, PyTorch Lightning, C++, transformers, deep architectures, generative models, etc....
