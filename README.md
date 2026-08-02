@@ -12,7 +12,7 @@ Reach me at: www.linkedin.com/in/marceaum
 
 ### Featured projects
 
-**[Information Retrieval Benchmark Framework](https://github.com/Mxoa/RAG-Odyssey)**
+**[Information Retrieval Benchmark Framework](https://github.com/Mxoa/Information-Retrieval-Benchmark-Framework)**
 Modular benchmark comparing sparse (BM25, TF-IDF), dense (E5) and hybrid/reranking retrieval (RRF, CrossEncoder) on NFCorpus. Includes a retriever complementarity analysis (Jaccard, top-k overlap, diversity) explaining when fusion actually helps.
 
 **[Contrastive Music Representation Learning](https://github.com/Mxoa/Music-Embeddings-with-Contrastive-Learning)**
