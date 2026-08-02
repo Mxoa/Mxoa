@@ -27,7 +27,7 @@ Investigates whether simpler or non-adversarial loss functions can replace the W
 
 - **[Date-Time Parser](https://github.com/Mxoa/Transformer-based-Date-Normalization)**: free-form English date/time expressions normalized to `YYYY-MM-DD, HH:MM`, comparing a fine-tuned T5 model against a lightweight custom encoder-classifier.
 - **[Water Network Optimization (C++)](https://github.com/Mxoa/Water-Network-Optimization)**: graph-based modeling and flow optimization for municipal water distribution networks.
-- **[Autonomous Driving in Unity (A*, Stanley controller)]**: path planning and control for a simulated self-driving vehicle. Not on github Yet. This project was part of a semester-long project course with a strong emphasize on AI for control/autonomous driving. I had the opportunity to experiment and deepen my RL expertise with it.
+- **[Autonomous Driving in Unity (A*, Stanley controller)](https://github.com/Mxoa/MAS-Reports)**: Multi-Agent System reports
 - **[DQN Lunar Lander (Gym)](https://github.com/Mxoa/RL-Lab-2)**: deep Q-learning applied to the classic control environment.
 
 ---
