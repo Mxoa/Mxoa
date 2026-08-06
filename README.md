@@ -4,7 +4,7 @@ MSc student in Machine Learning, Telecom Paris and KTH Royal Institute of Techno
 
 Soon a research intern at Karolinska Institutet (master thesis track), working on computer vision for automated recognition of protein gel images under background noise.
 
-Looking for an industry ML/research engineer internship starting February 2027, to complement the research side with a product/engineering perspective. Open to NLP, computer vision, time series and RL, generalist by preference.
+Looking for an industry ML/research engineer internship starting March 2027, to complement the research side with a product/engineering perspective. Open to NLP, computer vision, time series and RL, generalist by preference.
 
 Reach me at: www.linkedin.com/in/marceaum
 
